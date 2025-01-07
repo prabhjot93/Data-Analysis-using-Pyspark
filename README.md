@@ -18,9 +18,11 @@ Format date and timestamp fields.
 Validate data types.
 
 3. Aggregation and Grouping
+
 Objective: Aggregate performance data to generate meaningful insights.
 
 4.ETL (Extract, Transform, Load) Process
+
 Objective: Perform the ETL to extract data, 
 ETL Tasks:
 Extract data from tables.
@@ -28,4 +30,5 @@ Transform data using filtering, aggregations, or joins.
 Load cleaned and transformed data to the dimension and fact tables.
 
 5.Joining Dimension and Fact Tables
+
 Joined tutor performance fact data with dimension tables (e.g., tutor, program, intake,comments table) for detailed information.
