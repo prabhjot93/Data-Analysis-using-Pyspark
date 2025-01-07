@@ -8,7 +8,7 @@ Objective: Ingest raw data stored in the Lakehouse.
 Using Tools/Frameworks: PySpark.
 Data Sources:  CSV format.
 
-3. Data Cleaning
+2. Data Cleaning
 
 Objective: Clean and preprocess the data, including handling nulls, duplicates, and incorrect data types.
 Common Tasks:
@@ -23,9 +23,7 @@ Objective: Aggregate performance data to generate meaningful insights.
 
 4.ETL (Extract, Transform, Load) Process
 
-Objective: Perform the ETL to extract data, 
-ETL Tasks:
-Extract data from tables.
+Objective: Perform the ETL to extract data.
 Transform data using filtering, aggregations, or joins.
 Load cleaned and transformed data to the dimension and fact tables.
 
